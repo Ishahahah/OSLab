@@ -1,0 +1,5 @@
+1: ls >> outfile
+2: grep "[0-9]" file >> list
+3: chmod u+x test ;chmod o-r test
+4: alias rm='rm -i'
+5: who
